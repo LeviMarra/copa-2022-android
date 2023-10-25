@@ -18,15 +18,12 @@ Para facilitar a dinâmica de integração do nosso App, criamos uma Pseudo-API 
     * Buscar Partidas: `GetMatchesUseCase.kt`;
     * Habilitar Notificação: `EnableNotificationUseCase.kt`;
     * Desabilitar Notificação: `DisableNotificationUseCase.kt`.
-3. :white_large_square: Criar o `MainViewModel.kt` para orquestrar as interações com a `MainActivity.kt`;
-4. :white_large_square: Criar a `MainScreen.kt` para criar a UI por meio do Jetpack Compose;
-5. :white_large_square: Integrar o ViewModel e Activity, através da observação de estados;
-6. :white_large_square: Por fim, criar o Work Manager para orquestrar as Notificações Push localmente.
+3. :white_check_mark: Criar o `MainViewModel.kt` para orquestrar as interações com a `MainActivity.kt`;
+4. :white_check_mark: Criar a `MainScreen.kt` para criar a UI por meio do Jetpack Compose;
+5. :white_check_mark: Integrar o ViewModel e Activity, através da observação de estados;
+6. :white_check_mark: Por fim, criar o Work Manager para orquestrar as Notificações Push localmente.
 
-## Materia/Live de Apoio
+## Imagem
 
-Todos esses TODOs foram realizados nesta live incrível, com a participação de [pedrox-hs](https://github.com/pedrox-hs), [EzequielMessore](https://github.com/EzequielMessore), [igorbag](https://github.com/igorbag) e [falvojr](https://github.com/falvojr). Segue a gente aqui no GitHub e no LinkedIn 😉 
+![Design sem nome](https://github.com/LeviMarra/copa-2022-android/assets/137719953/a2b92067-a529-4397-8356-c87ddf67ff5e)
 
-**[Android Mobile Week #2: Aprenda a Criar um App com Listagem e Notificações dos Jogos do Brasil na Copa](https://youtu.be/30ZiJmCWliI)**
-
-Bons estudos galera 😘
